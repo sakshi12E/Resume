@@ -1,6 +1,6 @@
 body{
     min-height: 1000px;
-    background-color: #ffff;
+    background-color: #d50808;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
 
@@ -12,6 +12,7 @@ body{
     padding: 20px;
     border: 1px solid black;
     margin: 5px auto;
+    background-color:bisque;
     
    
 }
